@@ -9,7 +9,7 @@ body {
     min-height: 100vh;
 }
 .container {
-    background-image:url('image copy.png');
+    background-image:url('.vscode/images/image.png');
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(155, 3, 3, 0.1);
