@@ -9,21 +9,25 @@ body {
     min-height: 100vh;
 }
 .container {
-    background-image:url('.vscode/images/image.png');
+    background-image:url('.vscode/images/image copy.png');
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 0 20px rgba(155, 3, 3, 0.1);
+    box-shadow: 0 0 5
+    0px rgb(177, 39, 182);
     text-align: center;
-    width: 400px;
-    color: #ddd;
+    width: 600px;
+    height: 800px;
+    color:rgb(247, 233, 250);
+    font-size:25px ;
 }
+
 
 h1 {
   margin-bottom: 20px;
 }
 
 .form-group {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     text-align: left;
 }
 
@@ -52,7 +56,7 @@ button {
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #a31fc4;
 }
 
 #result {

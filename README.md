@@ -7,5 +7,5 @@ Akan Names Generator is a web application that generates Akan anmes based on the
 
 # Author(s) Information
 
-## VINCENT MURITHI**
-.GitHUB:
+## VINCENT MURITHI
+.GitHub
