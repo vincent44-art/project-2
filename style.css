@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image:url('image.png');
+    background-image:url('.vscode/image copy 5.png');
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,12 +12,11 @@ body {
     background-image:url('.vscode/images/image copy.png');
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 0 5
-    0px rgb(177, 39, 182);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5), -5px -5px 10px rgba(194, 4, 241, 0.5);
     text-align: center;
     width: 600px;
     height: 800px;
-    color:rgb(247, 233, 250);
+    color:rgb(252, 251, 247);
     font-size:25px ;
 }
 
